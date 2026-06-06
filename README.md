@@ -2,8 +2,6 @@
 
 Proyecto de machine learning orientado a recomendar el cultivo más adecuado a partir de variables de suelo y clima: nitrógeno, fósforo, potasio, temperatura, humedad, pH y lluvia.
 
-**Desarrollador:** Gabri
-
 ## Objetivo
 
 Entrenar y evaluar un modelo `RandomForestClassifier` que reciba variables de suelo y clima para recomendar uno de los 22 cultivos disponibles en el dataset `Crop_recommendation.csv`.
